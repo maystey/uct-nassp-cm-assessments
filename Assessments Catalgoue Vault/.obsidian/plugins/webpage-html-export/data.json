@@ -23,12 +23,12 @@
   "addOutline": true,
   "addFileNav": true,
   "addSearchBar": true,
-  "addGraphView": true,
+  "addGraphView": false,
   "addTitle": true,
   "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
-  "vaultTitle": "Assessments Catalgoue Vault",
+  "vaultTitle": "NASSP CM Assessments",
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
@@ -45,6 +45,8 @@
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "C:\\\\Users\\mayhe\\OneDrive\\NASSP\\Assessments Catalogue\\HTML Export",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

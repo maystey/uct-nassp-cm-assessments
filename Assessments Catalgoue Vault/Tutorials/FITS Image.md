@@ -3,6 +3,6 @@ Read in a FITS image, select a specific region, perform a flux cut, plot this re
 
 2 different FITS files are used.
 
-# Uses and Variations
+## Uses and Variations
 
 

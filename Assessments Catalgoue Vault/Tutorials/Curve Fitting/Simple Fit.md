@@ -1,5 +1,5 @@
 Use curve-fit to fit a model to data.
 
-# Uses and Variations
+## Uses and Variations
 
-## Tutorial 8 - 2022
+### Tutorial 8 - 2022
